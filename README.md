@@ -1,16 +1,14 @@
-## Hi there 👋
+#bem vindo ao meu perfil
 
-<!--
-**Paivinha033/paivinha033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é grazi
 
-Here are some ideas to get you started:
+eu estou estudando na aulura 
+eu estou dessenvolvendo linguagem no javascript
+utilizo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###voce entrar em contato comigo
+
+0000114454126sp@al.educacao.sp.gov.br
+
+@paivinha_bdp
+ ![](https://github.com/user-attachments/assets/fd70af3f-a731-4e44-8973-c276f1aa9606)
