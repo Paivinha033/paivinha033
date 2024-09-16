@@ -1,4 +1,4 @@
-#bem vindo ao meu perfil
+#bem vindo ao meu perfil 💙
 
 meu nome é grazi
 
@@ -6,9 +6,10 @@ eu estou estudando na aulura
 eu estou dessenvolvendo linguagem no javascript
 utilizo
 
-###voce entrar em contato comigo
+###voce entrar em contato comigo📧
 
 0000114454126sp@al.educacao.sp.gov.br
 
 @paivinha_bdp
- ![](https://github.com/user-attachments/assets/fd70af3f-a731-4e44-8973-c276f1aa9606)
+ ![](https://media1.tenor.com/m/tqG9djsrkIIAAAAC/idk.gif)
+ 
